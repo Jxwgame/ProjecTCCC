@@ -57,7 +57,7 @@ FIRE&TEMP project is part of Physical Computing Project...
 
 
 # วิดีโอการทำงานของชิ้นงาน
-
+https://youtu.be/CfHtjOZBvgM?si=Gqq-hYEV7Pmo5vW6
 
 # Member
 - 65070094 ธนภัทร โชติรัตน์
